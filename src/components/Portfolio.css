@@ -1,0 +1,35 @@
+html{
+    scroll-padding-top: 45px;
+}
+.nav-link{
+    color: brown !important;
+}
+#active-link{
+    color: azure !important;
+    background-color: brown;
+    border-radius: 30px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+a{
+    text-decoration: none;
+    color:chartreuse;
+}
+p.h1{
+    font-family:serif;
+    color:aqua
+}
+p.content{
+    font-size: 20px;
+    font-style: italic;
+}
+b{
+    color:deeppink
+}
+.title{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(84, 79, 79) !important;
+}
+h2{
+    color: lightsalmon !important;
+}

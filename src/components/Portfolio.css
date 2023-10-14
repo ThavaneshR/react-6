@@ -33,3 +33,6 @@ b{
 h2{
     color: lightsalmon !important;
 }
+sup{
+    z-index: -1;
+}
